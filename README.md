@@ -2,7 +2,8 @@
 Doczy (DOC DEPOT), here you can create your own docs and can see other's public docs. Can collaborate remotely in a doc, changes will be applied in real-time.
 
 # Demo 
-https://github.com/saisameerd/Doczyy/assets/84279800/33f511b8-98d7-4c75-8136-5df9c66e3c9c
+https://github.com/saisameerd/Doczyy/assets/84279800/94c9ef78-efc9-409c-a1d6-25bcccf6ae9b
+
 
 # Available Scripts
 In the project directory, you can run:
